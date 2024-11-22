@@ -4,7 +4,7 @@ public class Sort {
     public static void main(String[] args)
     {
         // Custom input array
-        int[] arr = { 13, 7, 6, 45, 21, 9, 101, 102,200 }
+        int[] arr = { 13, 7, 6, 45, 21, 9, 101, 102,200 };
 
         // Calling the sort() method present
         // inside Arrays class
