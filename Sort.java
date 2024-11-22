@@ -1,12 +1,5 @@
-// Java program to demonstrate working of
-// sort() method of Arrays class
-
-// Importing Arrays class from java.util package
 import java.util.Arrays;
-
-// Main class
 public class Sort {
-
     // Main driver method
     public static void main(String[] args)
     {
